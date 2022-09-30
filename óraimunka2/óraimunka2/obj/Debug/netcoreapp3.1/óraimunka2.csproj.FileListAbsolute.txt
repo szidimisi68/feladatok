@@ -1,0 +1,14 @@
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\bin\Debug\netcoreapp3.1\óraimunka2.exe
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\bin\Debug\netcoreapp3.1\óraimunka2.deps.json
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\bin\Debug\netcoreapp3.1\óraimunka2.runtimeconfig.json
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\bin\Debug\netcoreapp3.1\óraimunka2.runtimeconfig.dev.json
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\bin\Debug\netcoreapp3.1\óraimunka2.dll
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\bin\Debug\netcoreapp3.1\óraimunka2.pdb
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.csproj.AssemblyReference.cache
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.AssemblyInfoInputs.cache
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.AssemblyInfo.cs
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.csproj.CoreCompileInputs.cache
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.dll
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.pdb
+D:\Szidor Mihály\C#\óraimunka2\óraimunka2\obj\Debug\netcoreapp3.1\óraimunka2.genruntimeconfig.cache
